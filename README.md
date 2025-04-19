@@ -39,6 +39,6 @@
 `Aspen Suite` `MATLAB` `Process Design` `HSE` `Chemical Modeling`  
 
 ## 🌱 Current Projects  
-- Hydrogen process optimization @ Hydroino  
+- Hydrogen process optimization  
 - Sustainable refinery solutions  
 - Process safety analysis  
